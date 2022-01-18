@@ -15,7 +15,7 @@ const AllService = () => {
                                 <Card.Img
                                     className="departimg"
                                     variant="top"
-                                    src={service.img}
+                                    src={service.img} 
                                 />
                                 <Card.Body>
                                     <Card.Title>{service.name}</Card.Title>
